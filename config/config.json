@@ -1,23 +1,24 @@
 {
   "development": {
     "username": "root",
-    "password": "admin",
-    "database": "security",
-    "host": "127.0.0.1",
-    "dialect": "mysql"
+   "password": "administrador",
+   "database": "security",
+   "host": "127.0.0.1",
+   "dialect": "mysql"
   },
   "test": {
     "username": "root",
-    "password": "admin",
+    "password": "administrador",
     "database": "database_test",
     "host": "127.0.0.1",
     "dialect": "mysql"
   },
   "production": {
     "username": "root",
-    "password": "admin",
-    "database": "database_production",
-    "host": "127.0.0.1",
-    "dialect": "mysql"
+   "password": "VdPhVirbTrteRfzKYqNYogwolTeNNkeY",
+   "database": "railway",
+   "host": "autorack.proxy.rlwy.net",
+   "dialect": "mysql",
+   "port": "17262"
   }
 }
